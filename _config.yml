@@ -1,0 +1,42 @@
+# Site Settings: Basic information about your site, including the title and description.
+title: "Your Name"
+description: "Portfolio of Your Name - Developer, Designer, Creator"
+url: "https://yourusername.github.io"
+
+# Author Information: Information about you, which can be used across the site.
+author:
+  name: "Your Name"
+  email: "youremail@example.com"
+  github_username: "yourusername"
+  linkedin: "your-linkedin-username"
+
+# Theme Settings
+theme: time machine # or whichever theme you are using
+
+# Navigation Links: Defines the links that will appear in the site's navigation menu.
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects"
+  - title: "About"
+    url: "/about"
+  - title: "Contact"
+    url: "/contact"
+
+# Build Settings: Controls how the site is built, including markdown processing.
+markdown: kramdown
+highlighter: rouge
+
+# Plugins: Enables various Jekyll plugins to extend functionality.
+plugins:
+  - jekyll-seo-tag Adds SEO (Search Engine Optimization) tags to your site’s HTML. This helps search engines understand the content and relevance of your pages, improving your site's visibility.
+  - jekyll-sitemap Automatically generates a sitemap.xml file for your site. Sitemaps help search engines like Google index your site more effectively.
+
+
+# Deployment: Controls the URL structure for your pages.
+exclude:
+  - "README.md"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "LICENSE"
