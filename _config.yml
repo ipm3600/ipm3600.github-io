@@ -11,20 +11,18 @@ author:
 
 theme: minima
 
-nav_links:
-  - title: "Home"
-    url: "/"
-  - title: "Projects"
-    url: "/projects"
-  - title: "About"
-    url: "/about"
-  - title: "Contact"
-    url: "/contact"
+header_pages:
+  - index.md
+  - projects.md
+  - about.md
+  - contact.md
 
-markdown: kramdown
-highlighter: rouge
+minima:
+  skin: classic  # Change to 'dark', 'auto', etc. based on your preference.
+  date_format: "%b %-d, %Y"
+
+show_excerpts: true
 
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-
