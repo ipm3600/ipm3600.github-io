@@ -11,7 +11,7 @@ author:
   linkedin: "your-linkedin-username"
 
 # Theme Settings
-theme: time machine # or whichever theme you are using
+theme: time-machine # or whichever theme you are using
 
 # Navigation Links: Defines the links that will appear in the site's navigation menu.
 nav_links:
