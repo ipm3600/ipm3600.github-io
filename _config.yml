@@ -1,7 +1,6 @@
 # Site Settings: Basic information about your site, including the title and description.
 title: "Your Name"
 description: "Portfolio of Your Name - Developer, Designer, Creator"
-url: "https://yourusername.github.io"
 
 # Author Information: Information about you, which can be used across the site. 
 author:
