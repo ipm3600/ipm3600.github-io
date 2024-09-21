@@ -4,10 +4,10 @@ description: "Portfolio of Your Name - Developer, Designer, Creator"
 
 # Author Information: Information about you, which can be used across the site. 
 author:
-  name: "Your Name"
-  email: "youremail@example.com"
-  github_username: "yourusername"
-  linkedin: "your-linkedin-username"
+  name: "Ixchel"
+  email: "ixchel@example.com"
+  github_username: "ipm"
+  linkedin: "Ixchel-peralta"
 
 # Theme Settings
 theme: minima
