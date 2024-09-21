@@ -11,7 +11,7 @@ author:
   linkedin: "your-linkedin-username"
 
 # Theme Settings
-theme: time-machine # or whichever theme you are using
+remote_theme: pages-themes/time-machine@v0.2.0
 
 # Navigation Links: Defines the links that will appear in the site's navigation menu.
 nav_links:
@@ -30,9 +30,9 @@ highlighter: rouge
 
 # Plugins: Enables various Jekyll plugins to extend functionality.
 plugins:
-  - jekyll-seo-tag Adds SEO (Search Engine Optimization) tags to your site’s HTML. This helps search engines understand the content and relevance of your pages, improving your site's visibility.
-  - jekyll-sitemap Automatically generates a sitemap.xml file for your site. Sitemaps help search engines like Google index your site more effectively.
-
+  - jekyll-seo-tag
+  - jekyll-sitemap 
+  - jekyll-remote-theme 
 
 # Deployment: Controls the URL structure for your pages.
 exclude:
