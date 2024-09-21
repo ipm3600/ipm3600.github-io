@@ -1,18 +1,14 @@
-# Site Settings: Basic information about your site, including the title and description.
 title: "Your Name"
 description: "Portfolio of Your Name - Developer, Designer, Creator"
 
-# Author Information: Information about you, which can be used across the site. 
 author:
   name: "Ixchel"
   email: "ixchel@example.com"
   github_username: "ipm"
   linkedin: "Ixchel-peralta"
-
-# Theme Settings
+  
 theme: minima
 
-# Navigation Links: Defines the links that will appear in the site's navigation menu.
 nav_links:
   - title: "Home"
     url: "/"
@@ -23,17 +19,13 @@ nav_links:
   - title: "Contact"
     url: "/contact"
 
-# Build Settings: Controls how the site is built, including markdown processing.
 markdown: kramdown
 highlighter: rouge
 
-# Plugins: Enables various Jekyll plugins to extend functionality.
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap 
-  - jekyll-remote-theme 
-
-# Deployment: Controls the URL structure for your pages.
+  
 exclude:
   - "README.md"
   - "Gemfile"
