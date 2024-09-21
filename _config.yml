@@ -10,7 +10,7 @@ author:
   linkedin: "your-linkedin-username"
 
 # Theme Settings
-remote_theme: pages-themes/minimal@v0.2.0
+theme: minima
 
 # Navigation Links: Defines the links that will appear in the site's navigation menu.
 nav_links:
