@@ -1,12 +1,14 @@
-title: "Your Name"
-description: "Portfolio of Your Name - Developer, Designer, Creator"
+title: "Ixchel's Portfolio"
+description: "Portfolio of Ixchel - Developer, Designer, Creator"
+url: "https://ixchel.github.io"
+baseurl: ""
 
 author:
   name: "Ixchel"
   email: "ixchel@example.com"
   github_username: "ipm"
   linkedin: "Ixchel-peralta"
-  
+
 theme: minima
 
 nav_links:
@@ -24,10 +26,5 @@ highlighter: rouge
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap 
-  
-exclude:
-  - "README.md"
-  - "Gemfile"
-  - "Gemfile.lock"
-  - "LICENSE"
+  - jekyll-sitemap
+
