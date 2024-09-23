@@ -1,5 +1,5 @@
 title: "Ixchel's Portfolio"
-description: "Portfolio of Ixchel - Developer, Designer, Creator"
+description: "Portfolio of Ixchel"
 url: "https://ixchel.github.io"
 baseurl: ""
 
@@ -9,20 +9,12 @@ author:
   github_username: "ipm"
   linkedin: "Ixchel-peralta"
 
-theme: minima
-
-header_pages:
-  - index.md
-  - projects.md
-  - about.md
-  - contact.md
-
-minima:
-  skin: classic  # Change to 'dark', 'auto', etc. based on your preference.
-  date_format: "%b %-d, %Y"
-
-show_excerpts: true
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  
+exclude:
+  - "README.md"
+  - "LICENSE"
