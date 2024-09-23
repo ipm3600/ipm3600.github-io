@@ -1,20 +1,3 @@
 title: "Ixchel's Portfolio"
 description: "Portfolio of Ixchel"
 theme: jekyll-theme-minimal
-author:
-  name: "Ixchel"
-  email: "ixchel@example.com"
-  github_username: "ipm"
-  linkedin: "Ixchel-peralta"
-exclude:
-  - "README.md"
-  - "LICENSE"
-
-markdown: kramdown
-highlighter: rouge
-
-defaults:
-  - scope:
-      path: "assets" 
-    values:
-      permalink: /assets/:path/
