@@ -1,4 +1,3 @@
-![My Logo](/assets/datathon_image.jpg)
 # Welcome to My Portfolio
 
 I’m **Your Name**, a Developer, Designer, and Creator. This is my personal space on the web where I showcase my latest projects, share my thoughts on technology and design, and provide insights into my work.
@@ -19,6 +18,7 @@ I have experience in [mention your key skills or fields]. My goal is to create i
 
 - **Project 2**: A brief description of your project.
 ![Alt text](/assets/covid_data.png)
+
 [View Project](link-to-project)
 
 [View All Projects](/projects)
