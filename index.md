@@ -15,11 +15,11 @@ I have experience in [mention your key skills or fields]. My goal is to create i
 <video width="320" height="240" controls>
   <source src="assets/Worker_Dashboard.mp4" type="video/mp4">
 </video>
-- [View Project](link-to-project)
+[View Project](link-to-project)
 
 - **Project 2**: A brief description of your project.
 [Watch the video](assets/covid_data.png)
-- [View Project](link-to-project)
+[View Project](link-to-project)
 
 [View All Projects](/projects)
 
