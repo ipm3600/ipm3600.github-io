@@ -2,8 +2,12 @@ title: "Ixchel's Portfolio"
 description: "Portfolio of Ixchel"
 theme: jekyll-theme-minimal
 
-author:
-  name: "Ixchel"
-  email: "ixchel@example.com"
-  github_username: "ipm"
-  linkedin: "Ixchel-peralta"
+exclude:
+  - "README.md"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "LICENSE"
+
+# Markdown and Highlighter Settings
+markdown: kramdown
+highlighter: rouge
