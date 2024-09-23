@@ -1,8 +1,3 @@
----
-layout: home
-title: "Welcome to My Portfolio"
----
-
 # Welcome to My Portfolio
 
 I’m **Your Name**, a Developer, Designer, and Creator. This is my personal space on the web where I showcase my latest projects, share my thoughts on technology and design, and provide insights into my work.
