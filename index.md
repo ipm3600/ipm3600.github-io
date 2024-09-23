@@ -11,7 +11,7 @@ I have experience in [mention your key skills or fields]. My goal is to create i
 ## Featured Projects
 
 - **Project 1**: A brief description of your project.
-<video width="320" height="240" controls>
+<video width="760" height="540" controls>
   <source src="/assets/Worker_Dashboard.mp4" type="video/mp4">
 </video>
 [View Project](link-to-project) 
