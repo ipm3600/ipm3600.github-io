@@ -15,7 +15,16 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-remote-theme
-  
+
 exclude:
   - "README.md"
   - "LICENSE"
+
+markdown: kramdown
+highlighter: rouge
+
+defaults:
+  - scope:
+      path: "assets" 
+    values:
+      permalink: /assets/:path/
